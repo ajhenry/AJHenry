@@ -2,7 +2,7 @@
   <img src='./resources/header.svg' height='100'/>
 </p>
 
-<h2 align='center'>I'm Andrew 👋 — a fullstack software engineer and Open Source advocate</h2>
+<h2 align='center'>I'm Andrew 👋 — a fullstack software engineer and open source advocate</h2>
 
 <p align='center'>
 <a href='https://gpvc.arturio.dev/AJHenry'><img src='https://gpvc.arturio.dev/AJHenry'/></a>
