@@ -8,13 +8,11 @@
 <h3 align='center'>
   <a href='https://ajhenry.dev'>ajhenry.dev</a> 
   </br>
-  <a href='https://blog.ajhenry.dev'>blog.ajhenry.dev</a>
-  </br>
   <a href='https://twitter.com/ajhenrydev'>@ajhenrydev</a>
 </h3>
 
 
 <p align='center'>
-<a href='https://gpvc.arturio.dev/AJHenry'><img src='https://gpvc.arturio.dev/AJHenry'/></a>
-<a href='https://github.com/AJHenry'><img src='https://img.shields.io/github/followers/AJHenry?style=social'/></a>
+  <a href='https://gpvc.arturio.dev/AJHenry'><p> </p></a>
+<a href='https://github.com/AJHenry'></a>
 </p>
